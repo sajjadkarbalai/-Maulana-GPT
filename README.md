@@ -1,17 +1,26 @@
-#     Maulana-GPT
+# Maulana-GPT
 
+**Explore Islamic Knowledge with Ease**
 
-Are you seeking answers to your burning questions about Islam? Or perhaps you're preparing for an important presentation on Islamic topics? Look no further! Maulana-GPT is here to make your journey into Islamic knowledge seamless and enlightening.
+Are you interested in diving into Islamic teachings or preparing for a presentation on Islamic topics? Maulana-GPT is your AI-powered companion, designed to assist you in exploring the vast ocean of Islamic knowledge.
 
-🕌 **Quick Answers: ** Got a question about Islamic beliefs, practices, or history? Maulana-GPT is your go-to source! With its vast database of authentic information, you'll receive accurate and insightful responses in no time.
+## Features:
 
-📚 **Note Making Assistant: ** Crafting a compelling presentation on Islam? Let Maulana-GPT assist you in organizing your thoughts and gathering relevant information. Whether it's about the five pillars, the life of the Prophet Muhammad (peace be upon him), or Islamic jurisprudence, Maulana-GPT has you covered.
+🕌 **Quick Answers:** Instantly access information on Islamic beliefs, practices, and history. Maulana-GPT is built to provide accurate and insightful responses, making it an excellent resource for your inquiries.
 
-🎓 **Educational Tool: ** Whether you're a student, a researcher, or simply curious about Islam, Maulana-GPT offers a user-friendly platform to enhance your understanding of the faith. Dive into its wealth of knowledge and broaden your horizons with ease.
+📚 **Note-Making Assistant:** Whether you're preparing a presentation or conducting research, Maulana-GPT can help you organize your thoughts and gather relevant information on topics like the Five Pillars, the life of the Prophet Muhammad (peace be upon him), or Islamic jurisprudence.
 
-🤖 **24/7 Accessibility: ** No need to wait for office hours or appointments. Maulana-GPT is available round the clock, ready to assist you whenever you need guidance or inspiration.
+🎓 **Educational Tool:** Maulana-GPT is perfect for students, researchers, and curious minds. Enhance your understanding of Islam with a user-friendly AI that’s always ready to help.
 
-🚨 **Remember: ** While Maulana-GPT strives to provide accurate and reliable information, it's important to remember that AI technology, while advanced, isn't infallible. Always verify the information provided and consult with knowledgeable scholars or resources for any doubts or critical decisions concerning your faith.
+🤖 **24/7 Accessibility:** Maulana-GPT is available whenever you need it. There's no need to wait for specific hours—get the information and assistance you need at any time.
 
-#     How it currently works...
+🚨 **Disclaimer:** While Maulana-GPT provides valuable insights, it’s important to verify information and consult knowledgeable scholars or trusted resources, especially for critical decisions concerning your faith.
 
+## How to Run Maulana-GPT on Your Device
+
+Ready to get started? Follow these simple steps to run Maulana-GPT on your local machine:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/maulana-gpt.git
+   cd maulana-gpt
