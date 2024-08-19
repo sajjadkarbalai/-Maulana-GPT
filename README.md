@@ -24,3 +24,11 @@ Ready to get started? Follow these simple steps to run Maulana-GPT on your local
    ```bash
    git clone https://github.com/yourusername/maulana-gpt.git
    cd maulana-gpt
+
+1. **Install Required Dependencies:**
+   ```bash
+   pip install streamlit ollama duckduckgo_search langchain_community
+
+1. **Run the Application:**
+   ```bash
+   streamlit run app.py
