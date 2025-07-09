@@ -2,7 +2,7 @@
 
 **Explore Islamic Knowledge with Ease**
 
-Are you interested in diving into Islamic teachings or preparing for a presentation on Islamic topics? Maulana-GPT is your AI-powered companion, designed to assist you in exploring the vast ocean of Islamic knowledge.
+This is my version of a simple AI chatbot, in retrospect you can use the exact same format of this code and change it so that this can be a AI agent for anything. What is unique to this AI agent is that for those who lack a high amount of compute to train their model, this system relies on the world-wide-web to provide accurate data to the model. Are you interested in diving into Islamic teachings or preparing for a presentation on Islamic topics? Maulana-GPT is your AI-powered companion, designed to assist you in exploring the vast ocean of Islamic knowledge.
 
 ## Features:
 
